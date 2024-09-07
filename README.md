@@ -1,6 +1,13 @@
-# 💫 About Me:
-I'm a passionate Data Analyst with 5 years of experience transforming data into actionable insights using Power BI and Advanced Excel. My expertise lies in data visualization and analysis, where I've honed my skills to uncover trends and drive strategic decisions.<br><br>In addition to my data analysis background, I'm expanding my technical toolkit and diving into web development and programming. Currently, I'm learning HTML, CSS, JavaScript, and React to build interactive web applications. I'm also exploring Python, Java, and the intricacies of data manipulation with Pandas.<br><br>On the backend side, I'm getting hands-on with MySQL for database management and delving into AWS and Docker to understand cloud services and containerization. I’m also familiarizing myself with Git to streamline version control and collaboration.
+<h1 align="center">Hi 👋, I'm ASHOKA S</h1>
+<h3 align="center">A passionate aspiring developer from India</h3>
 
+- 🔭 I’m currently working on **Power Bi UPI transaction Analysis**
+
+- 🌱 I’m currently learning **React, angular, python, JavaScript**
+
+- 💬 Ask me about **Power Bi , Excel**
+
+- 📫 How to reach me **ashoka.sathisha@gmail.com**
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ashokas8055) 
